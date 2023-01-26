@@ -1,0 +1,27 @@
+{
+"description": "After another miserable summer at Privet Drive, Harry Potter - the boy who lived - returns for his third year at Hogwarts School of Witchcraft and Wizardry.",
+"image":
+"name": "Harry Potter",
+"attributes": [
+{
+"trait_type": "Magic",
+"value": 50
+ },
+ {
+"trait_type": "Cunning",
+"value": 20
+ },
+ {
+"trait_type": "Courage",
+"value": 40
+ },
+ {
+"trait_type": "Wisdom",
+"value": 25
+ },
+ {
+"trait_type": "Temper",
+"value": 6
+ },
+  ]
+}
