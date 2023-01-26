@@ -1,0 +1,27 @@
+{
+"description": "Head of Slytherin house and the Hogwarts Potions master, Professor Snape favours his own students above those from other houses.",
+"image": "ipfs://bafybeiajfztczmdcmphs22ciujnbcmxjc4et42i4odcstxqxuk3zokxymy/ProfessorSnape.png"
+"name": "Professor Snape",
+"attributes": [
+{
+"trait_type": "Magic",
+"value": 85
+ },
+ {
+"trait_type": "Cunning",
+"value": 25
+ },
+ {
+"trait_type": "Courage",
+"value": 20
+ },
+ {
+"trait_type": "Wisdom",
+"value": 70
+ },
+ {
+"trait_type": "Temper",
+"value": 8
+ },
+  ]
+}
