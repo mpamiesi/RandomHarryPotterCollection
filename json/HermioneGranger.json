@@ -1,0 +1,27 @@
+{
+"description": "As eager as ever to return to school, Hemrione is determined to study as many subjects as possible. How she willl fit them all in is another matter entirely.",
+"image": "ipfs://bafybeiajfztczmdcmphs22ciujnbcmxjc4et42i4odcstxqxuk3zokxymy/HermioneGranger.png"
+"name": "Hermione Granger",
+"attributes": [
+{
+"trait_type": "Magic",
+"value": 60
+ },
+ {
+"trait_type": "Cunning",
+"value": 15
+ },
+ {
+"trait_type": "Courage",
+"value": 38
+ },
+ {
+"trait_type": "Wisdom",
+"value": 70
+ },
+ {
+"trait_type": "Temper",
+"value": 2
+ },
+  ]
+}
