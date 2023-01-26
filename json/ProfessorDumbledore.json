@@ -1,0 +1,27 @@
+{
+"description": "Many consider Dumbledor, current Headmaster of Hogwarts, to be the greatest wizard of modern times. He enjoys chamber music and tenpin bowling.",
+"image": "ipfs://bafybeiajfztczmdcmphs22ciujnbcmxjc4et42i4odcstxqxuk3zokxymy/ProfessorDumbledore.png"
+"name": "Professor Dumbledore",
+"attributes": [
+{
+"trait_type": "Magic",
+"value": 100
+ },
+ {
+"trait_type": "Cunning",
+"value": 24
+ },
+ {
+"trait_type": "Courage",
+"value": 39
+ },
+ {
+"trait_type": "Wisdom",
+"value": 80
+ },
+ {
+"trait_type": "Temper",
+"value": 0
+ },
+  ]
+}
