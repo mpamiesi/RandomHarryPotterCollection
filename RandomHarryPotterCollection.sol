@@ -10,7 +10,7 @@ contract RandomHarryPotterCollection is ERC721, ERC721Enumerable, ERC721URIStora
     constructor() ERC721("Random Harry Potter Collection", "RHPC") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        return "ipfs://bafybeibf3aywfotfdt7ofnpdbn3z32wsnou4vmiwfbtnng6yi2tqnn2upe";
+        return "https://bafybeibf3aywfotfdt7ofnpdbn3z32wsnou4vmiwfbtnng6yi2tqnn2upe.ipfs.dweb.link/";
     }
 
     function safeMint(address to, uint256 tokenId, string memory uri)
